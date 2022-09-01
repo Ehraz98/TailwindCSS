@@ -1,9 +1,30 @@
-# TailwindCSS
+# Shopify website clone
 
-## This repository inclues Paytm,Shopify and Rode clone using Tailwind CSS.
+> By Ehraz Ahmad
+
+## ShopifyUi
+
+- Desktop
+  ![Desktop-1](./Shopify/ShopifyUI/ShopifyLaptop.jpeg)
+
+- Mobile
+
+  ![Mobile](./Shopify/ShopifyUI/ShopifyMobile.png)
+
+## Built with:
+
+- Tailwind CSS
+- Semantic HTML5
 
 ## Links:
 
-- [Rode]()
-- [Shopify]()
-- [Paytm]()
+- [Live Demo Link]()
+- [Github URL]()
+
+## Time taken:
+
+- This project took me around 10 hours to build from scratch
+
+## Key Learnings:
+
+- In this project I learned about responsive design using Tailwind CSS.
