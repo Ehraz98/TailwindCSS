@@ -18,8 +18,8 @@
 
 ## Links:
 
-- [Live Demo Link]()
-- [Github URL]()
+- [Live Demo Link](
+https://beamish-moonbeam-b57f5f.netlify.app/)
 
 ## Time taken:
 
