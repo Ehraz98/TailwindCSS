@@ -18,8 +18,7 @@
 
 ## Links:
 
-- [Live Demo Link]()
-- [Github URL]()
+- [Live Demo Link](https://fastidious-lollipop-60c410.netlify.app/)
 
 ## Time taken:
 
