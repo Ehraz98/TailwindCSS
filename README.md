@@ -1,9 +1,30 @@
-# TailwindCSS
+# Paytm website clone
 
-## This repository inclues Paytm,Shopify and Rode clone using Tailwind CSS.
+> By Ehraz Ahmad
+
+## PaytmUi
+
+- Desktop
+  ![Desktop-1](./Paytm/PaytmUI/Paytm%20Laptop.jpeg)
+
+- Mobile
+
+  ![Mobile](./Paytm/PaytmUI/Paytm%20Mobile.png)
+
+## Built with:
+
+- Tailwind CSS
+- Semantic HTML5
 
 ## Links:
 
-- [Rode]()
-- [Shopify]()
-- [Paytm]()
+- [Live Demo Link]()
+- [Github URL]()
+
+## Time taken:
+
+- This project took me around 10 hours to build from scratch
+
+## Key Learnings:
+
+- In this project I learned about responsive design using Tailwind CSS.
