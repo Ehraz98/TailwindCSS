@@ -18,8 +18,7 @@
 
 ## Links:
 
-- [Live Demo Link]()
-- [Github URL]()
+- [Live Demo Link](https://lighthearted-sherbet-b9f968.netlify.app/)
 
 ## Time taken:
 
