@@ -5,11 +5,11 @@
 ## RodeUi
 
 - Desktop
-  ![Desktop-1](./Rode.com/images/RodeLaptop.jpeg)
+  ![Desktop-1](./Rode/images/RodeLaptop.jpeg)
 
 - Mobile
 
-  ![Mobile](./Rode.com/images/RodeMobile.png)
+  ![Mobile](./Rode/images/RodeMobile.png)
 
 ## Built with:
 
