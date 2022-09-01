@@ -4,6 +4,6 @@
 
 ## Links:
 
-- [Rode]()
-- [Shopify]()
-- [Paytm]()
+- [Rode](https://github.com/Ehraz98/TailwindCSS/tree/rode)
+- [Shopify](https://github.com/Ehraz98/TailwindCSS/tree/shopify)
+- [Paytm](https://github.com/Ehraz98/TailwindCSS/tree/paytm)
